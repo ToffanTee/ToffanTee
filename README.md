@@ -2,7 +2,7 @@
 
 > I break software intentionally so real users don't have to.
 
-I'm a Software Quality Assurance Engineer specialising in **manual testing, API testing and UI automation**. My background in fullstack development means I don't just find bugs — I understand *why* they happen at the code level, which makes me a sharper tester.
+I'm a Software Quality Assurance Engineer specialising in **manual testing, API automation and UI automation**. My background in fullstack development means I don't just find bugs — I understand *why* they happen at the code level, which makes me a sharper tester.
 
 ---
 

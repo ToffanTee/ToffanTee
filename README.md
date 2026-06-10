@@ -19,7 +19,7 @@ I'm a Software Quality Assurance Engineer specialising in **manual testing, API 
 
 ## Featured Projects
 
-- **[PureCheck](https://github.com/ToffanTee/purecheck)** — Full-stack content platform (React + Node.js/Express). Authentication, blog CMS, community features, admin dashboard.
+- **[PureCheck](https://github.com/ToffanTee/purecheck)** — An innovative web application that identifies counterfeit products (React + Node.js/Express). Authentication, product scan, blog CMS, community features, admin dashboard.
 - **[PureCheck API Server](https://github.com/ToffanTee/purecheckServer)** — REST API backing PureCheck. 6 resource domains, JWT auth, XSS/SQLi/NoSQLi sanitization.
 - **[Blog App](https://github.com/ToffanTee/blogapp)** — React blog frontend with full CRUD and user management.
 
@@ -29,8 +29,8 @@ I'm a Software Quality Assurance Engineer specialising in **manual testing, API 
 
 ## Currently Building
 
-- [ ] E2E Playwright automation suite for PureCheck
-- [ ] API test collection (Postman + Newman) for PureCheck Server
+- [ ] E2E Cypress automation suite for Lucid Banking Saas Application
+- [ ] API test collection (Postman + Newman) for Lucid Banking Saas Application
 - [ ] Personal QA portfolio site
 
 ---

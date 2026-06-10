@@ -1,4 +1,4 @@
-# Hi, I'm Tonye — Software QA Engineer 👋
+# Hi, I'm Tonye — QA Engineer 👋
 
 > I break software intentionally so real users don't have to.
 
